@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jucajata
-- 👀 I’m interested in develop software about electric markets and football.
-- 🌱 I’m currently learning Docker and Data Engineering.
+- 👀 I’m interested in develop software about electric things or any kind of other fields.
+- 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on any kind of projects using Python.
 - 📫 How to reach me: https://www.linkedin.com/in/juancjaramillot/
 
