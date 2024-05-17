@@ -11,6 +11,8 @@
 💼 Puedes encontrarme en mi [Linkedin](https://www.linkedin.com/in/juancjaramillot/)<br/>
 
 
+## Estadísticas
+
 ![Estadísticas de Github de Juan Camilo](https://github-readme-stats.vercel.app/api?username=jucajata&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 ![Historia en Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jucajata&theme=nightowl&hide_border=false)
