@@ -1,7 +1,6 @@
-<h1 style="text-align: center;">👋 ¡Hola! Me llamo Juan Camilo</h1>
+# 👋 ¡Hola! Me llamo Juan Camilo
 
-
-¿Quién soy?
+## ¿Quién soy?
 
 💻 Ingeniero de Datos experto en construir Pipelines y ETLs para empresas<br/>
 ⚡ Ingeniero Electricista de la Universidad Nacional de Colombia<br/>
@@ -12,7 +11,4 @@
 💼 Puedes encontrarme en mi [Linkedin](https://www.linkedin.com/in/juancjaramillot/)<br/>
 
 
-<!---
-jucajata/jucajata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Estadísticas de Github de Juan Camilo](https://github-readme-stats.vercel.app/api?username=jucajata&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
