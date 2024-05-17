@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @jucajata
-- 👀 I’m interested in develop software about electric things or any kind of other fields.
-- 🌱 I’m currently learning Data Engineering.
-- 💞️ I’m looking to collaborate on any kind of projects using Python.
-- 📫 How to reach me: https://www.linkedin.com/in/juancjaramillot/
+#                     👋 ¡Hola! Me llamo Juan Camilo
+
+¿Quién soy?
+
+💻 Ingeniero de Datos experto en construir Pipelines y ETLs para empresas<br/>
+⚡ Ingeniero Electricista de la Universidad Nacional de Colombia<br/>
+🔭 Estudiante vitalicio, aprendiendo nuevas tecnologías todos los días<br/>
+🔦 Tengo experiencia como Analista y Científico de datos<br/>
+📱 Actualmente aprendiendo Kotlin como lenguaje de programación para Android<br/>
+:shipit: Soy experto en resolver problemas y preguntas<br/>
+Puedes encontrarme en LinkedIn: [linkedin](https://www.linkedin.com/in/juancjaramillot/)<br/>
 
 
 <!---
