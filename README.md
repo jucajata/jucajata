@@ -8,7 +8,7 @@
 🔦 Tengo experiencia como Analista y Científico de datos<br/>
 📱 Actualmente aprendiendo Kotlin como lenguaje de programación para Android<br/>
 :shipit: Soy experto en resolver problemas y preguntas<br/>
-Puedes encontrarme en LinkedIn: [linkedin](https://www.linkedin.com/in/juancjaramillot/)<br/>
+💼 Puedes encontrarme en mi [Linkedin](https://www.linkedin.com/in/juancjaramillot/)<br/>
 
 
 <!---
