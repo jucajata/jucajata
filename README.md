@@ -1,4 +1,5 @@
-#                     👋 ¡Hola! Me llamo Juan Camilo
+<h1 style="text-align: center;">👋 ¡Hola! Me llamo Juan Camilo</h1>
+
 
 ¿Quién soy?
 
