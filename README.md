@@ -17,6 +17,8 @@
 
 ![Historia en Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jucajata&theme=nightowl&hide_border=false)
 
+![Lenguajes top](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jucajata&theme=nightowl)
+
 ![Otras estádisticas](https://github-readme-streak-stats.herokuapp.com/?user=jucajata&theme=nightowl&hide_border=true)
 
 ## Tecnologías
