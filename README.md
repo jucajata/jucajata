@@ -6,7 +6,7 @@
 ⚡ Ingeniero Electricista de la Universidad Nacional de Colombia<br/>
 🔭 Estudiante vitalicio, aprendiendo nuevas tecnologías todos los días<br/>
 🔦 Tengo experiencia como Analista y Científico de datos<br/>
-📱 Actualmente aprendiendo Kotlin como lenguaje de programación para Android<br/>
+📱 Actualmente aprendiendo Ciberseguridad<br/>
 :shipit: Soy experto en resolver problemas y preguntas<br/>
 💼 Puedes encontrarme en mi [Linkedin](https://www.linkedin.com/in/juancjaramillot/)<br/>
 
