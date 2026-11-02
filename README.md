@@ -35,7 +35,7 @@
 
 🌐 [jucajata.com](https://jucajata.com)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/jucajata/)<br/>
-📧 jcjt95@gmail.com<br/>
+📧 juancamilo@jucajata.com<br/>
 
 ## Vistas del perfil
 ![Vistas perfil](https://komarev.com/ghpvc/?username=jucajata&style=for-the-badge&color=55acb7&label=VISITANTES)
